@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/userListFragment">
+
+    <fragment
+        android:id="@+id/userListFragment"
+        android:name="com.sandsindia.fabulas.UserListFragment"
+        android:label="fragment_user_list"
+        tools:layout="@layout/fragment_user_list" >
+        <action
+            android:id="@+id/action_userListFragment_to_userDetailsFragment"
+            app:destination="@id/userDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/userDetailsFragment"
+        android:name="com.sandsindia.fabulas.UserDetailsFragment"
+        android:label="fragment_user_details"
+        tools:layout="@layout/fragment_user_details" >
+        <action
+            android:id="@+id/action_userDetailsFragment_to_postsFragment"
+            app:destination="@id/postsFragment" />
+        <action
+            android:id="@+id/action_userDetailsFragment_to_userListFragment"
+            app:destination="@id/userListFragment" />
+        <argument
+            android:name="user_responce"
+            app:argType="com.sandsindia.fabulas.models.UserResponse" />
+    </fragment>
+    <fragment
+        android:id="@+id/postsFragment"
+        android:name="com.sandsindia.fabulas.PostsFragment"
+        android:label="fragment_posts"
+        tools:layout="@layout/fragment_posts" >
+        <action
+            android:id="@+id/action_postsFragment_to_commentsFragment"
+            app:destination="@id/commentsFragment" />
+        <action
+            android:id="@+id/action_postsFragment_to_userDetailsFragment"
+            app:destination="@id/userDetailsFragment" />
+        <argument
+            android:name="user_responce"
+            app:argType="com.sandsindia.fabulas.models.UserResponse" />
+    </fragment>
+    <fragment
+        android:id="@+id/commentsFragment"
+        android:name="com.sandsindia.fabulas.CommentsFragment"
+        android:label="fragment_comments"
+        tools:layout="@layout/fragment_comments" >
+        <action
+            android:id="@+id/action_commentsFragment_to_postsFragment"
+            app:destination="@id/postsFragment" />
+        <argument
+            android:name="post_responce"
+            app:argType="com.sandsindia.fabulas.models.PostResponse" />
+        <argument
+            android:name="user_responce"
+            app:argType="com.sandsindia.fabulas.models.UserResponse" />
+    </fragment>
+</navigation>

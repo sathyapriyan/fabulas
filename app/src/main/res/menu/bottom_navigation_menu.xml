@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/nav_search"
+        android:title="Shorts"
+        android:enabled="true"
+        android:icon="@drawable/ic_mode_fan"/>
+    <item
+        android:id="@+id/nav_radio"
+        android:title=""
+        android:enabled="true"
+        android:icon="@drawable/ic_add_circle"/>
+    <item
+        android:id="@+id/nav_my_music"
+        android:title="Subscriptions"
+        android:enabled="true"
+        android:icon="@drawable/ic_add_card"/>
+    <item
+        android:id="@+id/nav_library"
+        android:title="Library"
+        android:enabled="true"
+        android:icon="@drawable/ic_library"/>
+</menu>
