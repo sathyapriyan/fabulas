@@ -4,6 +4,10 @@
 
 - <a href="https://kotlinlang.org/" target="_blank">Kotlin</a>
 
+## :Design Patterns
+
+- <a href="https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm" target="_blank">MVVM</a>
+
 ## :camera: ScreenShots
 
 <span align="center">
