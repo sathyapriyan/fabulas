@@ -7,22 +7,18 @@
 ## :camera: ScreenShots
 
 <span align="center">
-  <img src="https://github.com/sathyapriyan/HealthCare/blob/master/Screenshots/Screenshot_20221126-104003_HealthCare.jpg" width="140">
+  <img src="https://github.com/sathyapriyan/fabulas/blob/master/scteenshort/Screenshot_20230309-183409_Fabulas_1.jpg" width="140">
   <b>&emsp;</b>
-  <img src="https://github.com/sathyapriyan/HealthCare/blob/master/Screenshots/Screenshot_20221126-094346_HealthCare.jpg" width="140">
+  <img src="https://github.com/sathyapriyan/fabulas/blob/master/scteenshort/Screenshot_20230309-183422_Fabulas_2.jpg" width="140">
   <b>&emsp;</b>
-  <img src="https://https://github.com/sathyapriyan/HealthCare/blob/master/Screenshots/Screenshot_20221126-094355_HealthCare.jpg" width="140">
+  <img src="https://github.com/sathyapriyan/fabulas/blob/master/scteenshort/Screenshot_20230309-183434_Fabulas_3.jpg" width="140">
   <b>&emsp;</b>
-  <img src="https://github.com/sathyapriyan/HealthCare/blob/master/Screenshots/Screenshot_20221126-094404_HealthCare.jpg" width="140">
+  <img src="https://github.com/sathyapriyan/fabulas/blob/master/scteenshort/Screenshot_20230309-183447_Fabulas_4.jpg" width="140">
   <b>&emsp;</b>
-  <img src="https://github.com/sathyapriyan/HealthCare/blob/master/Screenshots/Screenshot_20221126-094421_HealthCare.jpg" width="140">
+  <img src="https://github.com/sathyapriyan/fabulas/blob/master/scteenshort/Screenshot_20230309-183458_Fabulas_5.jpg" width="140">
   <b>&emsp;</b>
-  <img src="https://github.com/sathyapriyan/HealthCare/blob/master/Screenshots/Screenshot_20221126-094440_HealthCare.jpg" width="140">
+  <img src="https://github.com/sathyapriyan/fabulas/blob/master/scteenshort/Screenshot_20230309-183736_Fabulas_6.jpg" width="140">
   <b>&emsp;</b>
-  <img src="https://github.com/sathyapriyan/HealthCare/blob/master/Screenshots/Screenshot_20221126-094711_HealthCare.jpg" width="140">
-   <b>&emsp;</b>
-  <img src="https://github.com/sathyapriyan/HealthCare/blob/master/Screenshots/Screenshot_20221126-094730_HealthCare.jpg" width="140">
-   <b>&emsp;</b>
 </span>
 <br></br>
 <span align="left">
